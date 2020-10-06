@@ -30,8 +30,10 @@ As there would be ten presentations that day, on a variety of data ethics subjec
 ## Media
 
 ### I edited a couple of video clips for emphasis and effect:
-* [Robocop (1987)](media/Robocop.mp4) - I loved this film (the original!).  Its messages are still relevant even today.   
-* [Mark Zuckerberg's testimony to congress (10/04/2018)](media/Marcus.mp4) - I edited this clip from CNET to highlight the point that that not only has technology and the datasphere evolved at an unprecedented pace (versus e.g. the industrial revolution), there is very little understanding from key policy makers let alone the political will to legislate for timely meaningful changes.
+* ![Robocop (1987)](media/Robocop.mp4)
+* [Robocop (1987) - I loved this film (the original!).  Its messages are still relevant even today.   
+* ![Mark Zuckerberg's testimony to congress (10/04/2018)](media/Marcus.mp4)
+* Mark Zuckerberg's testimony to congress (10/04/2018) - I edited this clip from CNET to highlight the point that that not only has technology and the datasphere evolved at an unprecedented pace (versus e.g. the industrial revolution), there is very little understanding from key policy makers let alone the political will to legislate for timely meaningful changes.
 
 
 ## Examples used
