@@ -36,9 +36,14 @@ As there would be ten presentations that day, on a variety of data ethics subjec
 
 ## Examples used
 
-### There are (too many) examples of codes of conduct out there already e.g.:
-* UK Statistics Authority
-* Ethical OS
-* Open Data Institute
-* Royal Statistics Society
-* DataKind
+### There are (too many) examples of codes of conduct out there already:
+* [UK Government - Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework#how-to-use-the-data-ethics-framework)
+* [UK Statistics Authority - Code of Practice for Statistics](https://code.statisticsauthority.gov.uk)
+* [Ethical OS	- Guide to Anticipating the Future Impact of Today's Technology](https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit-2.pdf)
+* [Open Data Institute - Data Ethics Canvas](https://theodi.org/topic/data-ethics-personal-data-and-privacy/)
+* [Royal Statistics Society - Data Manifesto](https://rss.org.uk/RSS/media/File-library/Policy/2019/9522-RSS-Data-Manifesto.pdf)
+* [DataKind UK - Ethical Principles for Data Scientists](https://www.datakind.org/blog/doing-data-for-good-right)
+
+### Other examples (not used)
+* [The Chartered Institute for IT - BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
+* [Data for Democracy](https://www.datafordemocracy.org)
