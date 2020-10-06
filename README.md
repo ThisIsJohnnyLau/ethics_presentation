@@ -38,13 +38,13 @@ As there would be ten presentations that day, on a variety of data ethics subjec
 ## Examples
 
 ### There are (too many) examples of codes of conduct out there already:
-* [UK Government - Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework#how-to-use-the-data-ethics-framework)
-* [UK Statistics Authority - Code of Practice for Statistics](https://code.statisticsauthority.gov.uk)
-* [Ethical OS	- Guide to Anticipating the Future Impact of Today's Technology](https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit-2.pdf)
-* [Open Data Institute - Data Ethics Canvas](https://theodi.org/topic/data-ethics-personal-data-and-privacy/)
-* [Royal Statistics Society - Data Manifesto](https://rss.org.uk/RSS/media/File-library/Policy/2019/9522-RSS-Data-Manifesto.pdf)
-* [DataKind UK - Ethical Principles for Data Scientists](https://www.datakind.org/blog/doing-data-for-good-right)
+* [UK Government](https://www.gov.uk/government/publications/data-ethics-framework#how-to-use-the-data-ethics-framework) - Data Ethics Framework
+* [UK Statistics Authority](https://code.statisticsauthority.gov.uk) - Code of Practice for Statistics
+* [Ethical OS	](https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit-2.pdf) - Guide to Anticipating the Future Impact of Today's Technology
+* [Open Data Institute](https://theodi.org/topic/data-ethics-personal-data-and-privacy/) - Data Ethics Canvas
+* [Royal Statistics Society](https://rss.org.uk/RSS/media/File-library/Policy/2019/9522-RSS-Data-Manifesto.pdf) - Data Manifesto
+* [DataKind UK](https://www.datakind.org/blog/doing-data-for-good-right) - Ethical Principles for Data Scientists
 
 ### Other examples (not used in presentation)
-* [The Chartered Institute for IT - BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
+* [The Chartered Institute for IT](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/) - BCS Code of Conduct
 * [Data for Democracy](https://www.datafordemocracy.org)
