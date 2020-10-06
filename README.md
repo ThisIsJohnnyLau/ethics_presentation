@@ -18,25 +18,24 @@ This presentation considers how data scientists should be accredited and if a co
 ## Approach
 As there would be ten presentations that day, on a variety of data ethics subjects, I decided that it was essential to tailor my segemnt to my audience if I was to have any lasting impact.  
 
-### So in order to maximise my engagement I decided to use:
+### So in order to maximise engagement I decided to use:
 * Humour
 * Audience participation
-* Examples of other codes of conduct
 * Video clips and memes
-* The example from DataKind UK as our instructor is heavily involved there so it was an example that was close to home
-* Distillation of key ethics considerations into categories - backed up by dissecting existing examples.
+* Examples of other codes of conduct
+* The example from DataKind UK as our instructor is heavily involved there so it was an example that was closer to home
 * Less text and more verbal communication, discussion and reflection
+* Distillation of key ethics considerations into categories - backed up by dissecting existing examples
+
 
 ## Media
 
-### I edited a couple of video clips for emphasis and effect:
-* ![Robocop (1987)](media/Robocop.mp4)
-* [Robocop (1987) - I loved this film (the original!).  Its messages are still relevant even today.   
-* ![Mark Zuckerberg's testimony to congress (10/04/2018)](media/Marcus.mp4)
-* Mark Zuckerberg's testimony to congress (10/04/2018) - I edited this clip from CNET to highlight the point that that not only has technology and the datasphere evolved at an unprecedented pace (versus e.g. the industrial revolution), there is very little understanding from key policy makers let alone the political will to legislate for timely meaningful changes.
+### I edited a couple of video clips for emphasis and effect (can't embed here unfortunately):
+* [Robocop (1987)](media/Robocop.mp4) - I loved this film (the original!).  Its messages are still relevant even today.   
+* [Mark Zuckerberg's testimony to congress (10/04/2018)](media/Marcus.mp4) - I edited this clip from CNET to highlight the point that that not only has technology and the datasphere evolved at an unprecedented pace (versus e.g. the industrial revolution), there is very little understanding from key policy makers let alone the political will to legislate for timely meaningful changes.
 
 
-## Examples used
+## Examples
 
 ### There are (too many) examples of codes of conduct out there already:
 * [UK Government - Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework#how-to-use-the-data-ethics-framework)
@@ -46,6 +45,6 @@ As there would be ten presentations that day, on a variety of data ethics subjec
 * [Royal Statistics Society - Data Manifesto](https://rss.org.uk/RSS/media/File-library/Policy/2019/9522-RSS-Data-Manifesto.pdf)
 * [DataKind UK - Ethical Principles for Data Scientists](https://www.datakind.org/blog/doing-data-for-good-right)
 
-### Other examples (not used)
+### Other examples (not used in presentation)
 * [The Chartered Institute for IT - BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
 * [Data for Democracy](https://www.datafordemocracy.org)
